@@ -23,3 +23,21 @@ Output: YES
 Solution:
 Programming Language: C with lex and yacc support
 2.l and 2.y
+
+
+Question 3: Source:HackerRank.com
+Problem Statement
+
+Given N integers, count the number of pairs of integers whose difference is K.
+
+Input Format 
+The 1st line contains N & K (integers). 
+The 2nd line contains N numbers of the set. All the N numbers are distinct.
+
+Output Format 
+An integer that tells the number of pairs of integers whose difference is K.
+
+Constraints: 
+N <= 105 
+0 < K < 109 
+Each integer will be greater than 0 and at least K smaller than 231-1
