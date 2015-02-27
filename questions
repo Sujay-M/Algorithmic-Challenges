@@ -41,3 +41,22 @@ Constraints:
 N <= 105 
 0 < K < 109 
 Each integer will be greater than 0 and at least K smaller than 231-1
+
+Question 4: Source:HackerRank.com
+
+Simple encryption. String(no spaces) is taken as input(max length 81). It is put in form of a matrix and output will be the string that we get when we traverse the matrix along the column and is separated by space after the end of each column.
+constraint on #rows and #columns
+floor(sqrt(lengthofstring))≤rows≤column≤ceil(sqrt(lengthofstring))
+Sample input:
+ifmanwasmeanttostayonthegroundgodwouldhavegivenusroots
+Output:
+imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau
+
+explaination: MATRIX is (traverse along column)
+ifmanwas  
+meanttos          
+tayonthe  
+groundgo  
+dwouldha  
+vegivenu  
+sroots
