@@ -89,11 +89,3 @@ Solution: loop.c
 
 Question 11: MagicNumber 
 Solution: magicNum.py
-
-Question 12: If there are 4 keys representing 
-1. Print a
-2. ctrl-a
-3. ctrl-c
-4. ctrl-v
-Print the maximum number of a's that can be printed in n key strokes.
-Solution: printDp.py
